@@ -13,6 +13,7 @@ public class que {
         System.out.println("Subtraction: " + calc.subtract(x, y));
         System.out.println("Multiplication: " + calc.multiply(x, y));
         System.out.println("Division: " + calc.divide(x, y));
+        sc.close();
     }
 }
 class Calculator {
